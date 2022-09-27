@@ -9,6 +9,8 @@ IET Digital Library. [[bibtex](bibtex/pbte098e.bib), [book](https://digital-libr
 
 - A. Sebastianelli, M. P. D. Rosso, S. L. Ullo and P. Gamba, "A Speckle Filter for Sentinel-1 SAR Ground Range Detected Data Based on Residual Convolutional Neural Networks," in IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, vol. 15, pp. 5086-5101, 2022, doi: 10.1109/JSTARS.2022.3184355. [[bibtex](bibtex/9800702.bib), [paper](https://ieeexplore.ieee.org/abstract/document/9800702)]
 
+- A. Sebastianelli et al., "PLFM: Pixel-Level Merging of Intermediate Feature Maps by disentangling and fusing spatial and temporal data for Cloud Removal," in IEEE Transactions on Geoscience and Remote Sensing, 2022, doi: 10.1109/TGRS.2022.3208694. [[bibtex](bibtex/9899477.bib), [paper](https://ieeexplore.ieee.org/document/9899477)]
+
 ### 2021
 
 - A. Sebastianelli, D. A. Zaidenberg, D. Spiller, B. L. Saux and S. L. Ullo, "On Circuit-Based Hybrid Quantum Neural Networks for Remote Sensing Imagery Classification," in IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, vol. 15, pp. 565-580, 2022, doi: 10.1109/JSTARS.2021.3134785. [[bibtex](bibtex/9647979.bib),[paper](https://ieeexplore.ieee.org/abstract/document/9647979)]
