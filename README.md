@@ -11,6 +11,9 @@ IET Digital Library. [[bibtex](bibtex/pbte098e.bib), [book](https://digital-libr
 
 - A. Sebastianelli et al., "PLFM: Pixel-Level Merging of Intermediate Feature Maps by disentangling and fusing spatial and temporal data for Cloud Removal," in IEEE Transactions on Geoscience and Remote Sensing, 2022, doi: 10.1109/TGRS.2022.3208694. [[bibtex](bibtex/9899477.bib), [paper](https://ieeexplore.ieee.org/document/9899477)]
 
+- Sebastianelli, A., Mauro, F., Di Cosmo, G., Passarini, F., Carminati, M., & Ullo, S. L. (2022, July). A Decision Support System Based on Machine Learning to Counteract Covid-Like Pandemic Events. In IGARSS 2022-2022 IEEE International Geoscience and Remote Sensing Symposium (pp. 4486-4489). IEEE. [[bibtex](bibtex/9883847.bib), [paper](https://ieeexplore.ieee.org/abstract/document/9883847)]
+
+
 ### 2021
 
 - A. Sebastianelli, D. A. Zaidenberg, D. Spiller, B. L. Saux and S. L. Ullo, "On Circuit-Based Hybrid Quantum Neural Networks for Remote Sensing Imagery Classification," in IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, vol. 15, pp. 565-580, 2022, doi: 10.1109/JSTARS.2021.3134785. [[bibtex](bibtex/9647979.bib),[paper](https://ieeexplore.ieee.org/abstract/document/9647979)]
